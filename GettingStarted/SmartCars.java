@@ -1,4 +1,4 @@
-public class Main {
+public class SmartCars {
  	public static void main(String[] args){
  		int availableGasoline = 35;
 	 	int batteryPercentage = 68;
