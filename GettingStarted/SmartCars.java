@@ -9,7 +9,7 @@ public class SmartCars {
 //  		Integer batteryPercentage = 68;
 //  		Integer availableDistance = availableGasoline * 15 +
 //  		batteryPercentage * 10;
-		
+
  		System.out.println(availableDistance);
 	}
 }
