@@ -6,4 +6,4 @@ public class Main {
  batteryPercentage * 10;
  System.out.println(availableDistance);
  }
-}//
+}
